@@ -1,0 +1,118 @@
+Metric results for math_55_buggy at 6/5/18 6:37 PM
+
+Abstractness,15.5%
+Average Block Depth,1.15
+    minimum,0
+    maximum,10
+Average Cyclomatic Complexity,1.99
+    minimum,1
+    maximum,76
+Average Lines Of Code Per Method,10.36
+    minimum,1
+    maximum,302
+Average Number of Constructors Per Type,0.80
+    minimum,0
+    maximum,17
+Average Number of Fields Per Type,1.77
+    minimum,0
+    maximum,285
+Average Number of Methods Per Type,6.26
+    minimum,0
+    maximum,98
+Average Number of Parameters,0.78
+    minimum,0
+    maximum,13
+Comments Ratio,15.6%
+Efferent Couplings,631
+Lines of Code,"91,180"
+Number of Characters,"6,530,595"
+Number of Comments,"14,314"
+    end-of-line,5267
+    multi-line,1252
+    javadoc,7795
+Number of Constructors,906
+    public,758
+    protected,80
+    package,28
+    private,40
+Number of Fields,"2,703"
+    instance,1973
+        public,0
+        protected,491
+        package,357
+        private,1125
+    static,730
+        public,119
+        protected,11
+        package,4
+        private,596
+    public,119
+        instance,0
+        static,119
+    protected,502
+        instance,491
+        static,11
+    package,361
+        instance,357
+        static,4
+    private,1721
+        instance,1125
+        static,596
+Number of Lines,"172,947"
+Number of Methods,"7,031"
+    instance,6487
+        public,5147
+        protected,422
+        package,570
+        private,348
+    static,544
+        public,414
+        protected,27
+        package,4
+        private,99
+    public,5561
+        instance,5147
+        static,414
+    protected,449
+        instance,422
+        static,27
+    package,574
+        instance,570
+        static,4
+    private,447
+        instance,348
+        static,99
+Number of Packages,89
+    compilation units,797
+        minimum,0
+        average,8
+        maximum,51
+    class files,0
+        minimum,0
+        average,0
+        maximum,0
+Number of Semicolons,"52,018"
+Number of Types,"1,122"
+    interface,119
+        public,118
+        protected,0
+        package,0
+        private,1
+    class,1003
+        public,689
+        protected,4
+        package,198
+        private,112
+    public,807
+        interface,118
+        class,689
+    protected,4
+        interface,0
+        class,4
+    package,198
+        interface,0
+        class,198
+    private,113
+        interface,1
+        class,112
+Weighted Methods,"15,879"
