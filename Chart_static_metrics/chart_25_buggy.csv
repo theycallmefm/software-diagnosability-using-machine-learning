@@ -1,0 +1,118 @@
+Metric results for chart_25_buggy at 6/7/18 12:10 PM
+
+Abstractness,12%
+Average Block Depth,1.17
+    minimum,0
+    maximum,10
+Average Cyclomatic Complexity,2.02
+    minimum,1
+    maximum,54
+Average Lines Of Code Per Method,10.50
+    minimum,1
+    maximum,312
+Average Number of Constructors Per Type,1.15
+    minimum,0
+    maximum,8
+Average Number of Fields Per Type,1.90
+    minimum,0
+    maximum,48
+Average Number of Methods Per Type,8.99
+    minimum,0
+    maximum,182
+Average Number of Parameters,0.98
+    minimum,0
+    maximum,12
+Comments Ratio,16%
+Efferent Couplings,926
+Lines of Code,"125,374"
+Number of Characters,"9,562,417"
+Number of Comments,"20,168"
+    end-of-line,5086
+    multi-line,1120
+    javadoc,13962
+Number of Constructors,"1,175"
+    public,1091
+    protected,35
+    package,3
+    private,46
+Number of Fields,"2,859"
+    instance,1893
+        public,14
+        protected,35
+        package,29
+        private,1815
+    static,966
+        public,545
+        protected,48
+        package,21
+        private,352
+    public,559
+        instance,14
+        static,545
+    protected,83
+        instance,35
+        static,48
+    package,50
+        instance,29
+        static,21
+    private,2167
+        instance,1815
+        static,352
+Number of Lines,"278,443"
+Number of Methods,"9,152"
+    instance,8345
+        public,7549
+        protected,398
+        package,11
+        private,387
+    static,807
+        public,742
+        protected,4
+        package,1
+        private,60
+    public,8291
+        instance,7549
+        static,742
+    protected,402
+        instance,398
+        static,4
+    package,12
+        instance,11
+        static,1
+    private,447
+        instance,387
+        static,60
+Number of Packages,124
+    compilation units,943
+        minimum,0
+        average,7
+        maximum,48
+    class files,0
+        minimum,0
+        average,0
+        maximum,0
+Number of Semicolons,"70,386"
+Number of Types,"1,017"
+    interface,92
+        public,92
+        protected,0
+        package,0
+        private,0
+    class,925
+        public,845
+        protected,7
+        package,70
+        private,3
+    public,937
+        interface,92
+        class,845
+    protected,7
+        interface,0
+        class,7
+    package,70
+        interface,0
+        class,70
+    private,3
+        interface,0
+        class,3
+Weighted Methods,"20,936"
