@@ -1,0 +1,118 @@
+Metric results for closure_23_buggy at 6/19/18 5:36 PM
+
+Abstractness,9.7%
+Average Block Depth,1.09
+    minimum,0
+    maximum,9
+Average Cyclomatic Complexity,1.83
+    minimum,1
+    maximum,160
+Average Lines Of Code Per Method,9.08
+    minimum,1
+    maximum,625
+Average Number of Constructors Per Type,0.55
+    minimum,0
+    maximum,12
+Average Number of Fields Per Type,2.13
+    minimum,0
+    maximum,158
+Average Number of Methods Per Type,9.95
+    minimum,0
+    maximum,1069
+Average Number of Parameters,0.61
+    minimum,0
+    maximum,9
+Comments Ratio,10.7%
+Efferent Couplings,"1,120"
+Lines of Code,"172,270"
+Number of Characters,"8,406,131"
+Number of Comments,"18,566"
+    end-of-line,12179
+    multi-line,779
+    javadoc,5608
+Number of Constructors,924
+    public,296
+    protected,11
+    package,474
+    private,143
+Number of Fields,"4,522"
+    instance,3485
+        public,161
+        protected,88
+        package,1080
+        private,2156
+    static,1037
+        public,234
+        protected,2
+        package,346
+        private,455
+    public,395
+        instance,161
+        static,234
+    protected,90
+        instance,88
+        static,2
+    package,1426
+        instance,1080
+        static,346
+    private,2611
+        instance,2156
+        static,455
+Number of Lines,"254,801"
+Number of Methods,"16,572"
+    instance,15669
+        public,11546
+        protected,528
+        package,1478
+        private,2117
+    static,903
+        public,332
+        protected,5
+        package,283
+        private,283
+    public,11878
+        instance,11546
+        static,332
+    protected,533
+        instance,528
+        static,5
+    package,1761
+        instance,1478
+        static,283
+    private,2400
+        instance,2117
+        static,283
+Number of Packages,43
+    compilation units,634
+        minimum,0
+        average,14
+        maximum,257
+    class files,0
+        minimum,0
+        average,0
+        maximum,0
+Number of Semicolons,"70,761"
+Number of Types,"1,665"
+    interface,94
+        public,55
+        protected,0
+        package,28
+        private,11
+    class,1571
+        public,480
+        protected,4
+        package,715
+        private,372
+    public,535
+        interface,55
+        class,480
+    protected,4
+        interface,0
+        class,4
+    package,743
+        interface,28
+        class,715
+    private,383
+        interface,11
+        class,372
+Weighted Methods,"32,249"

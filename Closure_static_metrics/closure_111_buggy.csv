@@ -1,0 +1,118 @@
+Metric results for closure_111_buggy at 6/27/18 2:56 PM
+
+Abstractness,9.3%
+Average Block Depth,1.09
+    minimum,0
+    maximum,9
+Average Cyclomatic Complexity,1.82
+    minimum,1
+    maximum,172
+Average Lines Of Code Per Method,9.19
+    minimum,1
+    maximum,636
+Average Number of Constructors Per Type,0.55
+    minimum,0
+    maximum,12
+Average Number of Fields Per Type,2.18
+    minimum,0
+    maximum,176
+Average Number of Methods Per Type,10.10
+    minimum,0
+    maximum,1243
+Average Number of Parameters,0.60
+    minimum,0
+    maximum,8
+Comments Ratio,10.5%
+Efferent Couplings,"1,183"
+Lines of Code,"189,159"
+Number of Characters,"9,159,156"
+Number of Comments,"20,045"
+    end-of-line,13207
+    multi-line,874
+    javadoc,5964
+Number of Constructors,989
+    public,320
+    protected,10
+    package,499
+    private,160
+Number of Fields,"4,992"
+    instance,3851
+        public,165
+        protected,94
+        package,1252
+        private,2340
+    static,1141
+        public,251
+        protected,2
+        package,396
+        private,492
+    public,416
+        instance,165
+        static,251
+    protected,96
+        instance,94
+        static,2
+    package,1648
+        instance,1252
+        static,396
+    private,2832
+        instance,2340
+        static,492
+Number of Lines,"277,772"
+Number of Methods,"18,000"
+    instance,17032
+        public,12550
+        protected,585
+        package,1632
+        private,2265
+    static,968
+        public,341
+        protected,8
+        package,292
+        private,327
+    public,12891
+        instance,12550
+        static,341
+    protected,593
+        instance,585
+        static,8
+    package,1924
+        instance,1632
+        static,292
+    private,2592
+        instance,2265
+        static,327
+Number of Packages,47
+    compilation units,677
+        minimum,0
+        average,14
+        maximum,274
+    class files,0
+        minimum,0
+        average,0
+        maximum,0
+Number of Semicolons,"76,366"
+Number of Types,"1,781"
+    interface,98
+        public,57
+        protected,0
+        package,30
+        private,11
+    class,1683
+        public,515
+        protected,4
+        package,774
+        private,390
+    public,572
+        interface,57
+        class,515
+    protected,4
+        interface,0
+        class,4
+    package,804
+        interface,30
+        class,774
+    private,401
+        interface,11
+        class,390
+Weighted Methods,"34,868"
