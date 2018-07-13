@@ -1,0 +1,118 @@
+Metric results for math_61_buggy at 6/5/18 6:42 PM
+
+Abstractness,15.8%
+Average Block Depth,1.15
+    minimum,0
+    maximum,10
+Average Cyclomatic Complexity,1.93
+    minimum,1
+    maximum,84
+Average Lines Of Code Per Method,10.01
+    minimum,1
+    maximum,322
+Average Number of Constructors Per Type,0.90
+    minimum,0
+    maximum,17
+Average Number of Fields Per Type,1.79
+    minimum,0
+    maximum,261
+Average Number of Methods Per Type,6.57
+    minimum,0
+    maximum,101
+Average Number of Parameters,0.76
+    minimum,0
+    maximum,10
+Comments Ratio,15.3%
+Efferent Couplings,694
+Lines of Code,"94,793"
+Number of Characters,"6,751,367"
+Number of Comments,"14,547"
+    end-of-line,5263
+    multi-line,1126
+    javadoc,8158
+Number of Constructors,"1,036"
+    public,911
+    protected,76
+    package,11
+    private,38
+Number of Fields,"2,805"
+    instance,2044
+        public,0
+        protected,591
+        package,330
+        private,1123
+    static,761
+        public,148
+        protected,12
+        package,4
+        private,597
+    public,148
+        instance,0
+        static,148
+    protected,603
+        instance,591
+        static,12
+    package,334
+        instance,330
+        static,4
+    private,1720
+        instance,1123
+        static,597
+Number of Lines,"178,847"
+Number of Methods,"7,564"
+    instance,7062
+        public,5547
+        protected,472
+        package,686
+        private,357
+    static,502
+        public,398
+        protected,31
+        package,4
+        private,69
+    public,5945
+        instance,5547
+        static,398
+    protected,503
+        instance,472
+        static,31
+    package,690
+        instance,686
+        static,4
+    private,426
+        instance,357
+        static,69
+Number of Packages,91
+    compilation units,770
+        minimum,0
+        average,8
+        maximum,56
+    class files,0
+        minimum,0
+        average,0
+        maximum,0
+Number of Semicolons,"53,831"
+Number of Types,"1,151"
+    interface,122
+        public,121
+        protected,0
+        package,0
+        private,1
+    class,1029
+        public,652
+        protected,4
+        package,232
+        private,141
+    public,773
+        interface,121
+        class,652
+    protected,4
+        interface,0
+        class,4
+    package,232
+        interface,0
+        class,232
+    private,142
+        interface,1
+        class,141
+Weighted Methods,"16,824"

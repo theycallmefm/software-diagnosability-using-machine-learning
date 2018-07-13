@@ -1,0 +1,118 @@
+Metric results for closure_109_buggy at 6/27/18 2:49 PM
+
+Abstractness,8.8%
+Average Block Depth,1.09
+    minimum,0
+    maximum,9
+Average Cyclomatic Complexity,1.85
+    minimum,1
+    maximum,172
+Average Lines Of Code Per Method,9.10
+    minimum,1
+    maximum,636
+Average Number of Constructors Per Type,0.57
+    minimum,0
+    maximum,12
+Average Number of Fields Per Type,2.29
+    minimum,0
+    maximum,176
+Average Number of Methods Per Type,9.96
+    minimum,0
+    maximum,1251
+Average Number of Parameters,0.61
+    minimum,0
+    maximum,8
+Comments Ratio,10.4%
+Efferent Couplings,"1,225"
+Lines of Code,"198,375"
+Number of Characters,"9,593,141"
+Number of Comments,"20,654"
+    end-of-line,13606
+    multi-line,996
+    javadoc,6052
+Number of Constructors,"1,102"
+    public,419
+    protected,11
+    package,505
+    private,167
+Number of Fields,"5,537"
+    instance,4313
+        public,307
+        protected,94
+        package,1520
+        private,2392
+    static,1224
+        public,319
+        protected,2
+        package,403
+        private,500
+    public,626
+        instance,307
+        static,319
+    protected,96
+        instance,94
+        static,2
+    package,1923
+        instance,1520
+        static,403
+    private,2892
+        instance,2392
+        static,500
+Number of Lines,"291,345"
+Number of Methods,"18,971"
+    instance,17842
+        public,12763
+        protected,860
+        package,1674
+        private,2545
+    static,1129
+        public,489
+        protected,8
+        package,292
+        private,340
+    public,13252
+        instance,12763
+        static,489
+    protected,868
+        instance,860
+        static,8
+    package,1966
+        instance,1674
+        static,292
+    private,2885
+        instance,2545
+        static,340
+Number of Packages,52
+    compilation units,790
+        minimum,0
+        average,15
+        maximum,275
+    class files,0
+        minimum,0
+        average,0
+        maximum,0
+Number of Semicolons,"80,570"
+Number of Types,"1,903"
+    interface,98
+        public,57
+        protected,0
+        package,30
+        private,11
+    class,1805
+        public,631
+        protected,4
+        package,776
+        private,394
+    public,688
+        interface,57
+        class,631
+    protected,4
+        interface,0
+        class,4
+    package,806
+        interface,30
+        class,776
+    private,405
+        interface,11
+        class,394
+Weighted Methods,"37,400"

@@ -1,0 +1,118 @@
+Metric results for closure_73_buggy at 6/26/18 8:16 PM
+
+Abstractness,8.9%
+Average Block Depth,1.09
+    minimum,0
+    maximum,9
+Average Cyclomatic Complexity,1.90
+    minimum,1
+    maximum,164
+Average Lines Of Code Per Method,9.14
+    minimum,1
+    maximum,602
+Average Number of Constructors Per Type,0.56
+    minimum,0
+    maximum,12
+Average Number of Fields Per Type,2.20
+    minimum,0
+    maximum,158
+Average Number of Methods Per Type,9.80
+    minimum,0
+    maximum,953
+Average Number of Parameters,0.63
+    minimum,0
+    maximum,8
+Comments Ratio,11%
+Efferent Couplings,961
+Lines of Code,"155,153"
+Number of Characters,"7,681,277"
+Number of Comments,"17,123"
+    end-of-line,11054
+    multi-line,861
+    javadoc,5208
+Number of Constructors,850
+    public,273
+    protected,10
+    package,437
+    private,130
+Number of Fields,"4,387"
+    instance,3258
+        public,190
+        protected,82
+        package,917
+        private,2069
+    static,1129
+        public,367
+        protected,2
+        package,340
+        private,420
+    public,557
+        instance,190
+        static,367
+    protected,84
+        instance,82
+        static,2
+    package,1257
+        instance,917
+        static,340
+    private,2489
+        instance,2069
+        static,420
+Number of Lines,"232,295"
+Number of Methods,"14,779"
+    instance,13943
+        public,10290
+        protected,409
+        package,1295
+        private,1949
+    static,836
+        public,259
+        protected,4
+        package,308
+        private,265
+    public,10549
+        instance,10290
+        static,259
+    protected,413
+        instance,409
+        static,4
+    package,1603
+        instance,1295
+        static,308
+    private,2214
+        instance,1949
+        static,265
+Number of Packages,39
+    compilation units,583
+        minimum,0
+        average,14
+        maximum,241
+    class files,0
+        minimum,0
+        average,0
+        maximum,0
+Number of Semicolons,"64,789"
+Number of Types,"1,507"
+    interface,74
+        public,38
+        protected,0
+        package,28
+        private,8
+    class,1433
+        public,435
+        protected,2
+        package,650
+        private,346
+    public,473
+        interface,38
+        class,435
+    protected,2
+        interface,0
+        class,2
+    package,678
+        interface,28
+        class,650
+    private,354
+        interface,8
+        class,346
+Weighted Methods,"30,276"
