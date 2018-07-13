@@ -1,0 +1,21 @@
+DroppedColumn:FileCount Estimator:100 Accuracy:0.6730769230769231
+DroppedColumn:Average Cyclomatic Complexity Estimator:2900 Accuracy:0.6538461538461539
+DroppedColumn:FailedTests Estimator:1600 Accuracy:0.6346153846153846
+DroppedColumn:TriggeringTestCount Estimator:1600 Accuracy:0.7115384615384616
+DroppedColumn:Average Block Depth Estimator:100 Accuracy:0.6538461538461539
+DroppedColumn:Number of Packages Estimator:4700 Accuracy:0.6346153846153846
+DroppedColumn:Diversity Estimator:4300 Accuracy:0.6346153846153846
+DroppedColumn:Average Number of Methods Per Type Estimator:1000 Accuracy:0.6538461538461539
+DroppedColumn:FailedTestDontCoverStatement Estimator:1200 Accuracy:0.6153846153846154
+DroppedColumn:StatementCoverage Estimator:500 Accuracy:0.6346153846153846
+DroppedColumn:Uniqueness Estimator:1100 Accuracy:0.6153846153846154
+DroppedColumn:FailedTestCoverStatement Estimator:100 Accuracy:0.5769230769230769
+DroppedColumn:SuccesfulTestCoverStatement Estimator:300 Accuracy:0.5576923076923077
+DroppedColumn:LineCount Estimator:100 Accuracy:0.6153846153846154
+DroppedColumn:Abstractness Estimator:100 Accuracy:0.6153846153846154
+DroppedColumn:RelevantTestCount Estimator:100 Accuracy:0.5961538461538461
+DroppedColumn:Efferent Couplings Estimator:700 Accuracy:0.5769230769230769
+DroppedColumn:Density Estimator:400 Accuracy:0.5384615384615384
+DroppedColumn:PassedTests Estimator:200 Accuracy:0.5192307692307693
+DroppedColumn:Lines of Code Estimator:200 Accuracy:0.5576923076923077
+DroppedColumn:Number of Methods Estimator:400 Accuracy:0.5576923076923077

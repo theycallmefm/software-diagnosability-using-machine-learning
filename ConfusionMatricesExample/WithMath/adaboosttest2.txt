@@ -1,0 +1,61 @@
+DroppedColumn:FileCount Estimator:500 Accuracy:0.7115384615384616
+
+ClassCount:2 Finished:FileCount
+DroppedColumn:Average Cyclomatic Complexity Estimator:100 Accuracy:0.7115384615384616
+
+ClassCount:2 Finished:Average Cyclomatic Complexity
+DroppedColumn:Abstractness Estimator:200 Accuracy:0.7115384615384616
+
+ClassCount:2 Finished:Abstractness
+DroppedColumn:FailedTests Estimator:100 Accuracy:0.7692307692307693
+
+ClassCount:2 Finished:FailedTests
+DroppedColumn:Number of Packages Estimator:1000 Accuracy:0.75
+
+ClassCount:2 Finished:Number of Packages
+DroppedColumn:Average Block Depth Estimator:500 Accuracy:0.7307692307692307
+
+ClassCount:2 Finished:Average Block Depth
+DroppedColumn:TriggeringTestCount Estimator:1000 Accuracy:0.75
+
+ClassCount:2 Finished:TriggeringTestCount
+DroppedColumn:StatementCoverage Estimator:200 Accuracy:0.7692307692307693
+
+ClassCount:2 Finished:StatementCoverage
+DroppedColumn:Uniqueness Estimator:200 Accuracy:0.7692307692307693
+
+ClassCount:2 Finished:Uniqueness
+DroppedColumn:LineCount Estimator:400 Accuracy:0.7884615384615384
+
+ClassCount:2 Finished:LineCount
+DroppedColumn:Average Number of Methods Per Type Estimator:300 Accuracy:0.7884615384615384
+
+ClassCount:2 Finished:Average Number of Methods Per Type
+DroppedColumn:Efferent Couplings Estimator:200 Accuracy:0.7692307692307693
+
+ClassCount:2 Finished:Efferent Couplings
+DroppedColumn:RelevantTestCount Estimator:2000 Accuracy:0.7692307692307693
+
+ClassCount:2 Finished:RelevantTestCount
+DroppedColumn:FailedTestCoverStatement Estimator:2100 Accuracy:0.7692307692307693
+
+ClassCount:2 Finished:FailedTestCoverStatement
+DroppedColumn:Density Estimator:1100 Accuracy:0.8076923076923077
+
+ClassCount:2 Finished:Density
+DroppedColumn:Weighted Methods Estimator:100 Accuracy:0.8269230769230769
+
+ClassCount:2 Finished:Weighted Methods
+DroppedColumn:Diversity Estimator:100 Accuracy:0.7692307692307693
+
+ClassCount:2 Finished:Diversity
+DroppedColumn:SuccesfulTestCoverStatement Estimator:600 Accuracy:0.7692307692307693
+
+ClassCount:2 Finished:SuccesfulTestCoverStatement
+DroppedColumn:Lines of Code Estimator:600 Accuracy:0.75
+
+ClassCount:2 Finished:Lines of Code
+DroppedColumn:FailedTestDontCoverStatement Estimator:1300 Accuracy:0.7115384615384616
+
+ClassCount:2 Finished:FailedTestDontCoverStatement
+DroppedColumn:Number of Methods Estimator:600 Accuracy:0.6923076923076923

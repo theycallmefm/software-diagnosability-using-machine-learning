@@ -1,0 +1,21 @@
+DroppedColumn:FileCount C:0.01 Accuracy:0.3269230769230769
+DroppedColumn:TriggeringTestCount C:0.01 Accuracy:0.3269230769230769
+DroppedColumn:Average Cyclomatic Complexity C:0.01 Accuracy:0.3269230769230769
+DroppedColumn:FailedTests C:0.5 Accuracy:0.38461538461538464
+DroppedColumn:Diversity C:0.48 Accuracy:0.4423076923076923
+DroppedColumn:Number of Packages C:0.01 Accuracy:0.3269230769230769
+DroppedColumn:Average Block Depth C:0.01 Accuracy:0.3269230769230769
+DroppedColumn:Lines of Code C:0.01 Accuracy:0.3269230769230769
+DroppedColumn:Average Number of Methods Per Type C:0.01 Accuracy:0.3269230769230769
+DroppedColumn:FailedTestCoverStatement C:0.5 Accuracy:0.38461538461538464
+DroppedColumn:PassedTests C:0.47000000000000003 Accuracy:0.34615384615384615
+DroppedColumn:Abstractness C:0.5 Accuracy:0.34615384615384615
+DroppedColumn:Efferent Couplings C:0.49 Accuracy:0.34615384615384615
+DroppedColumn:FailedTestDontCoverStatement C:0.48 Accuracy:0.36538461538461536
+DroppedColumn:LineCount C:0.49 Accuracy:0.4423076923076923
+DroppedColumn:Uniqueness C:0.44 Accuracy:0.46153846153846156
+DroppedColumn:StatementCoverage C:0.36 Accuracy:0.46153846153846156
+DroppedColumn:RelevantTestCount C:0.44 Accuracy:0.46153846153846156
+DroppedColumn:Density C:0.5 Accuracy:0.4807692307692308
+DroppedColumn:SuccesfulTestCoverStatement C:0.35000000000000003 Accuracy:0.4807692307692308
+DroppedColumn:Number of Methods C:0.42 Accuracy:0.4807692307692308

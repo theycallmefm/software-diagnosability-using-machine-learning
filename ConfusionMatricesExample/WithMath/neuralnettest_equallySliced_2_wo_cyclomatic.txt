@@ -1,0 +1,22 @@
+DroppedColumn: NoDroppedColumn HH:(25, 100)Alpha:1e-05 Accuracy:0.7692307692307693
+DroppedColumn:FileCount HH:(200, 85)Alpha:1e-05 Accuracy:0.8076923076923077
+DroppedColumn:Average Cyclomatic Complexity HH:(50, 5)Alpha:1e-05 Accuracy:0.8076923076923077
+DroppedColumn:Abstractness HH:(25, 100)Alpha:0.001 Accuracy:0.8269230769230769
+DroppedColumn:FailedTests HH:(50, 20)Alpha:1e-05 Accuracy:0.8076923076923077
+DroppedColumn:Number of Packages HH:(250, 55)Alpha:0.001 Accuracy:0.8269230769230769
+DroppedColumn:Average Block Depth HH:(25, 45)Alpha:1e-10 Accuracy:0.8269230769230769
+DroppedColumn:TriggeringTestCount HH:(200, 35)Alpha:1e-10 Accuracy:0.8076923076923077
+DroppedColumn:StatementCoverage HH:(225, 105)Alpha:1e-05 Accuracy:0.7884615384615384
+DroppedColumn:Uniqueness HH:(100, 40)Alpha:0.001 Accuracy:0.8076923076923077
+DroppedColumn:LineCount HH:(100, 70)Alpha:1e-08 Accuracy:0.8461538461538461
+DroppedColumn:Average Number of Methods Per Type HH:(450, 10)Alpha:0.001 Accuracy:0.7884615384615384
+DroppedColumn:Efferent Couplings HH:(325, 5)Alpha:1e-10 Accuracy:0.7692307692307693
+DroppedColumn:RelevantTestCount HH:(425, 30)Alpha:1e-08 Accuracy:0.75
+DroppedColumn:FailedTestCoverStatement HH:(75, 20)Alpha:1e-05 Accuracy:0.75
+DroppedColumn:Density HH:(175, 10)Alpha:1e-05 Accuracy:0.7307692307692307
+DroppedColumn:Weighted Methods HH:(200, 5)Alpha:0.001 Accuracy:0.75
+DroppedColumn:Diversity HH:(475, 30)Alpha:0.001 Accuracy:0.7307692307692307
+DroppedColumn:SuccesfulTestCoverStatement HH:(25, 100)Alpha:1e-10 Accuracy:0.7307692307692307
+DroppedColumn:Lines of Code HH:(350, 25)Alpha:1e-08 Accuracy:0.7692307692307693
+DroppedColumn:FailedTestDontCoverStatement HH:(25, 50)Alpha:1e-05 Accuracy:0.7692307692307693
+DroppedColumn:Number of Methods HH:(525, 50)Alpha:1e-08 Accuracy:0.6923076923076923

@@ -1,0 +1,44 @@
+DroppedColumn:Abstractness Test:F MSE:0.34243529467123757
+DroppedColumn:Number of Packages Test:F MSE:0.3445257481879389
+DroppedColumn:LineCount Test:F MSE:0.344115713694381
+DroppedColumn:StatementCoverage Test:F MSE:0.3447764939399939
+DroppedColumn:FileCount Test:F MSE:0.34764200883299823
+DroppedColumn:FailedTests Test:F MSE:0.3451121528511396
+DroppedColumn:TriggeringTestCount Test:F MSE:0.3453593715813188
+DroppedColumn:Average Number of Methods Per Type Test:F MSE:0.34578863596036324
+DroppedColumn:Average Cyclomatic Complexity Test:F MSE:0.3436868256817456
+DroppedColumn:FailedTestCoverStatement Test:F MSE:0.34237158279903723
+DroppedColumn:SuccesfulTestCoverStatement Test:F MSE:0.3423443477852717
+DroppedColumn:PassedTests Test:F MSE:0.3427065346374475
+DroppedColumn:FailedTestDontCoverStatement Test:F MSE:0.34235956857051475
+DroppedColumn:RelevantTestCount Test:F MSE:0.3368298728313559
+DroppedColumn:Density Test:F MSE:0.3410518346578997
+DroppedColumn:Diversity Test:F MSE:0.33986496722582094
+DroppedColumn:Uniqueness Test:F MSE:0.33648522187478225
+DroppedColumn:CyclomaticComplexity Test:F MSE:0.31701593804975237
+DroppedColumn:Efferent Couplings Test:F MSE:0.3249914812467938
+DroppedColumn:Lines of Code Test:F MSE:0.29345072189694144
+DroppedColumn:Average Block Depth Test:F MSE:0.23145281974270948
+DroppedColumn:Weighted Methods Test:F MSE:0.1494174527386657
+DroppedColumn:Abstractness Test:P MSE:0.343112062789128
+DroppedColumn:Number of Packages Test:P MSE:0.3470470180742862
+DroppedColumn:LineCount Test:P MSE:0.3458150234950057
+DroppedColumn:StatementCoverage Test:P MSE:0.3444059354304424
+DroppedColumn:FileCount Test:P MSE:0.34580906626547503
+DroppedColumn:FailedTests Test:P MSE:0.3462514301910695
+DroppedColumn:TriggeringTestCount Test:P MSE:0.3443565833090997
+DroppedColumn:Average Number of Methods Per Type Test:P MSE:0.3483985384839552
+DroppedColumn:Average Cyclomatic Complexity Test:P MSE:0.34257471862940825
+DroppedColumn:FailedTestCoverStatement Test:P MSE:0.3437418423046439
+DroppedColumn:SuccesfulTestCoverStatement Test:P MSE:0.343741832276687
+DroppedColumn:PassedTests Test:P MSE:0.34276817538025917
+DroppedColumn:FailedTestDontCoverStatement Test:P MSE:0.3423952322159649
+DroppedColumn:RelevantTestCount Test:P MSE:0.338544811220448
+DroppedColumn:Density Test:P MSE:0.34045502034677544
+DroppedColumn:Diversity Test:P MSE:0.3406469063310591
+DroppedColumn:Uniqueness Test:P MSE:0.3373989436020386
+DroppedColumn:CyclomaticComplexity Test:P MSE:0.3177243214058677
+DroppedColumn:Efferent Couplings Test:P MSE:0.32528686489856706
+DroppedColumn:Lines of Code Test:P MSE:0.2917747882240299
+DroppedColumn:Average Block Depth Test:P MSE:0.23283840723617444
+DroppedColumn:Weighted Methods Test:P MSE:0.1489294299655064
