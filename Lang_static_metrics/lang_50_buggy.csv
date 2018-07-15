@@ -1,0 +1,118 @@
+Metric results for lang_50_buggy at 6/7/18 10:17 AM
+
+Abstractness,9.5%
+Average Block Depth,1.26
+    minimum,0
+    maximum,8
+Average Cyclomatic Complexity,1.88
+    minimum,1
+    maximum,49
+Average Lines Of Code Per Method,9.22
+    minimum,1
+    maximum,225
+Average Number of Constructors Per Type,1.08
+    minimum,0
+    maximum,13
+Average Number of Fields Per Type,0.98
+    minimum,0
+    maximum,30
+Average Number of Methods Per Type,10.90
+    minimum,0
+    maximum,174
+Average Number of Parameters,0.73
+    minimum,0
+    maximum,9
+Comments Ratio,14.3%
+Efferent Couplings,307
+Lines of Code,"48,526"
+Number of Characters,"3,529,735"
+Number of Comments,"6,948"
+    end-of-line,3464
+    multi-line,284
+    javadoc,3200
+Number of Constructors,444
+    public,327
+    protected,19
+    package,37
+    private,61
+Number of Fields,911
+    instance,369
+        public,0
+        protected,38
+        package,73
+        private,258
+    static,542
+        public,292
+        protected,9
+        package,35
+        private,206
+    public,292
+        instance,0
+        static,292
+    protected,47
+        instance,38
+        static,9
+    package,108
+        instance,73
+        static,35
+    private,464
+        instance,258
+        static,206
+Number of Lines,"93,680"
+Number of Methods,"4,448"
+    instance,3282
+        public,2909
+        protected,223
+        package,28
+        private,122
+    static,1166
+        public,1078
+        protected,10
+        package,17
+        private,61
+    public,3987
+        instance,2909
+        static,1078
+    protected,233
+        instance,223
+        static,10
+    package,45
+        instance,28
+        static,17
+    private,183
+        instance,122
+        static,61
+Number of Packages,27
+    compilation units,237
+        minimum,0
+        average,8
+        maximum,38
+    class files,0
+        minimum,0
+        average,0
+        maximum,0
+Number of Semicolons,"28,796"
+Number of Types,408
+    interface,11
+        public,2
+        protected,0
+        package,1
+        private,8
+    class,397
+        public,245
+        protected,0
+        package,92
+        private,60
+    public,247
+        interface,2
+        class,245
+    protected,0
+        interface,0
+        class,0
+    package,93
+        interface,1
+        class,92
+    private,68
+        interface,8
+        class,60
+Weighted Methods,"9,262"
