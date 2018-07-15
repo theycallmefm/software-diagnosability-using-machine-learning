@@ -9,6 +9,9 @@ Purpose of this project is to find best software metrics for fault localization 
 We provided jupyter notebook files and examples
 
 You can find more explanations of functions as comments in our code.
+## Requirements
+1. Eclipse Plugin CodePro
+2. Scikit-Learn
 
 ## FindingRank
 This notebook  finds the rank, method count of each gzoltar project and gives them a target value between 0 and 1. It matches JD CallGraphs with spectra and matrices of buggy versions. It also 
@@ -44,3 +47,22 @@ fulldata_wo_cyclomatic.csv
 
 ## ConfusionMatricesExample
 This folder contains some of our results without Math project and also has our confusion matrix generator in brute force way.
+
+## List of Important Metrics
+
+### Without Math - More Features:
+1. Weighted Methods
+2. Cyclomatic Complexity
+3. Number of Methods
+4. Line Count
+5. Density
+
+### With Math - More Data:
+1. Number of Methods
+2. Weighted Methods
+3. Passed Tests
+4. Density
+5. FailedTestsDontCoverStatement
+
+
+
