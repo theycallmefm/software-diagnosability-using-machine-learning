@@ -9,9 +9,13 @@ Purpose of this project is to find best software metrics for fault localization 
 We provided jupyter notebook files and examples
 
 You can find more explanations of functions as comments in our code.
+
 ## Requirements
 1. Eclipse Plugin CodePro
-2. Scikit-Learn
+2. Jupyter Notebook
+3. Scikit-Learn
+
+Explanations for each section is below: 
 
 ## FindingRank
 This notebook  finds the rank, method count of each gzoltar project and gives them a target value between 0 and 1. It matches JD CallGraphs with spectra and matrices of buggy versions. It also 
@@ -45,8 +49,16 @@ fulldata_wo_cyclomatic.csv
 
 *Note:* Your target value name should be "percentage" for now. 
 
+
+## Test_Metric_Finder
+Jupyter Notebook in which there are functions to find different test metrics
+
+## Defects4J Specific
+Python codes to find different bug metrics for each project
+
 ## ConfusionMatricesExample
 This folder contains some of our results without Math project and also has our confusion matrix generator in brute force way.
+
 
 ## List of Important Metrics
 
